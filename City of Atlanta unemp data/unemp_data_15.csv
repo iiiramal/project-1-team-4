@@ -1,0 +1,14 @@
+﻿Areaname,Area,Areatype,Stfips,Maparea,Stateabbrv,Periodyear,Periodtype,Period,Timeperiod,Adjusted,Laborforce,Emplab,Unemp,Unemprate,Clfprate,Emppopratio,Fullperiod,Sortperiod,Rank,Preliminary,prelim
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2015,1,0,2015,No,213893,199579,14314,6.7,,,20150100,1201500,175,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2015,3,1,"January, 2015",No,214367,198143,16224,7.6,,,20150301,3201501,555,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2015,3,2,"February, 2015",No,214349,198792,15557,7.3,,,20150302,3201502,935,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2015,3,3,"March, 2015",No,213910,199275,14635,6.8,,,20150303,3201503,1315,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2015,3,4,"April, 2015",No,213125,199479,13646,6.4,,,20150304,3201504,1695,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2015,3,5,"May, 2015",No,214669,200099,14570,6.8,,,20150305,3201505,2075,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2015,3,6,"June, 2015",No,214482,199392,15090,7,,,20150306,3201506,2455,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2015,3,7,"July, 2015",No,215088,200246,14842,6.9,,,20150307,3201507,2835,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2015,3,8,"August, 2015",No,212985,198821,14164,6.7,,,20150308,3201508,3215,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2015,3,9,"September, 2015",No,212613,199261,13352,6.3,,,20150309,3201509,3595,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2015,3,10,"October, 2015",No,213522,200005,13517,6.3,,,20150310,3201510,3975,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2015,3,11,"November, 2015",No,213470,200469,13001,6.1,,,20150311,3201511,4355,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2015,3,12,"December, 2015",No,214126,200961,13165,6.1,,,20150312,3201512,4735,No,0
