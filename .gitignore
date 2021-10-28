@@ -71,6 +71,9 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+#add file
+config.py
+
 # PyBuilder
 target/
 
@@ -129,3 +132,7 @@ dmypy.json
 .pyre/
 
 .DS_Store
+
+.DS_Store/
+
+/.DS_Store
