@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:859a930beea6340e86ea3708a06cdf82afe371ce1c363d24f4440fa9c27bb6d1
-size 2162
+﻿Areaname,Area,Areatype,Stfips,Maparea,Stateabbrv,Periodyear,Periodtype,Period,Timeperiod,Adjusted,Laborforce,Emplab,Unemp,Unemprate,Clfprate,Emppopratio,Fullperiod,Sortperiod,Rank,Preliminary,prelim
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2019,1,0,2019,No,240224,230886,9338,3.9,,,20190100,1201900,175,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2019,3,1,"January, 2019",No,238732,227473,11259,4.7,,,20190301,3201901,555,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2019,3,2,"February, 2019",No,239367,229180,10187,4.3,,,20190302,3201902,935,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2019,3,3,"March, 2019",No,239386,229523,9863,4.1,,,20190303,3201903,1315,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2019,3,4,"April, 2019",No,237234,228744,8490,3.6,,,20190304,3201904,1695,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2019,3,5,"May, 2019",No,239124,229873,9251,3.9,,,20190305,3201905,2075,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2019,3,6,"June, 2019",No,240747,230468,10279,4.3,,,20190306,3201906,2455,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2019,3,7,"July, 2019",No,241510,231324,10186,4.2,,,20190307,3201907,2835,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2019,3,8,"August, 2019",No,239557,229622,9935,4.1,,,20190308,3201908,3215,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2019,3,9,"September, 2019",No,240949,232553,8396,3.5,,,20190309,3201909,3595,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2019,3,10,"October, 2019",No,241731,233340,8391,3.5,,,20190310,3201910,3975,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2019,3,11,"November, 2019",No,241709,233922,7787,3.2,,,20190311,3201911,4355,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2019,3,12,"December, 2019",No,242634,234605,8029,3.3,,,20190312,3201912,4735,No,0

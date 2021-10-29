@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:700b29ae84b25e390f8a196c4816a0c3b45284edcf7f280555df3d8dcf7a2013
-size 1409
+﻿Areaname,Area,Areatype,Stfips,Maparea,Stateabbrv,Periodyear,Periodtype,Period,Timeperiod,Adjusted,Laborforce,Emplab,Unemp,Unemprate,Clfprate,Emppopratio,Fullperiod,Sortperiod,Rank,Preliminary,prelim
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2021,3,1,"January, 2021",No,239393,223623,15770,6.6,,,20210301,3202101,177,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2021,3,2,"February, 2021",No,241990,227368,14622,6,,,20210302,3202102,557,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2021,3,3,"March, 2021",No,242719,229294,13425,5.5,,,20210303,3202103,937,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2021,3,4,"April, 2021",No,243562,230403,13159,5.4,,,20210304,3202104,1317,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2021,3,5,"May, 2021",No,242592,229253,13339,5.5,,,20210305,3202105,1697,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2021,3,6,"June, 2021",No,245148,229971,15177,6.2,,,20210306,3202106,2077,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2021,3,7,"July, 2021",No,243629,232932,10697,4.4,,,20210307,3202107,2457,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2021,3,8,"August, 2021",No,241577,231362,10215,4.2,,,20210308,3202108,2837,Yes,1

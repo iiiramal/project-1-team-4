@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b46d8b0064f90295d5feac4a74156dfcaed259d753497d221fd0cc2dca109b13
-size 2182
+﻿Areaname,Area,Areatype,Stfips,Maparea,Stateabbrv,Periodyear,Periodtype,Period,Timeperiod,Adjusted,Laborforce,Emplab,Unemp,Unemprate,Clfprate,Emppopratio,Fullperiod,Sortperiod,Rank,Preliminary,prelim
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2010,1,0,2010,No,204363,180664,23699,11.6,,,20100100,1201000,175,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2010,3,1,"January, 2010",No,207163,182061,25102,12.1,,,20100301,3201001,555,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2010,3,2,"February, 2010",No,203847,180057,23790,11.7,,,20100302,3201002,935,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2010,3,3,"March, 2010",No,203097,180204,22893,11.3,,,20100303,3201003,1315,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2010,3,4,"April, 2010",No,202883,180800,22083,10.9,,,20100304,3201004,1695,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2010,3,5,"May, 2010",No,203171,180325,22846,11.2,,,20100305,3201005,2075,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2010,3,6,"June, 2010",No,203659,179653,24006,11.8,,,20100306,3201006,2455,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2010,3,7,"July, 2010",No,204996,180624,24372,11.9,,,20100307,3201007,2835,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2010,3,8,"August, 2010",No,204262,179785,24477,12,,,20100308,3201008,3215,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2010,3,9,"September, 2010",No,204436,180791,23645,11.6,,,20100309,3201009,3595,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2010,3,10,"October, 2010",No,203755,180488,23267,11.4,,,20100310,3201010,3975,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2010,3,11,"November, 2010",No,205262,181175,24087,11.7,,,20100311,3201011,4355,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2010,3,12,"December, 2010",No,205823,181999,23824,11.6,,,20100312,3201012,4735,No,0

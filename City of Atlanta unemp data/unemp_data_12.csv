@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4991fd1903bbc803df5c69a0ed4513bd08e9acecc00a1de1b991b84f06a1c906
-size 2176
+﻿Areaname,Area,Areatype,Stfips,Maparea,Stateabbrv,Periodyear,Periodtype,Period,Timeperiod,Adjusted,Laborforce,Emplab,Unemp,Unemprate,Clfprate,Emppopratio,Fullperiod,Sortperiod,Rank,Preliminary,prelim
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2012,1,0,2012,No,212996,191938,21058,9.9,,,20120100,1201200,175,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2012,3,1,"January, 2012",No,212182,189698,22484,10.6,,,20120301,3201201,555,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2012,3,2,"February, 2012",No,212215,190262,21953,10.3,,,20120302,3201202,935,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2012,3,3,"March, 2012",No,212244,191130,21114,9.9,,,20120303,3201203,1315,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2012,3,4,"April, 2012",No,210887,190718,20169,9.6,,,20120304,3201204,1695,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2012,3,5,"May, 2012",No,212470,191511,20959,9.9,,,20120305,3201205,2075,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2012,3,6,"June, 2012",No,213624,191266,22358,10.5,,,20120306,3201206,2455,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2012,3,7,"July, 2012",No,214719,192311,22408,10.4,,,20120307,3201207,2835,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2012,3,8,"August, 2012",No,212412,190960,21452,10.1,,,20120308,3201208,3215,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2012,3,9,"September, 2012",No,213264,193308,19956,9.4,,,20120309,3201209,3595,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2012,3,10,"October, 2012",No,213894,193767,20127,9.4,,,20120310,3201210,3975,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2012,3,11,"November, 2012",No,213580,194185,19395,9.1,,,20120311,3201211,4355,No,0
+City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2012,3,12,"December, 2012",No,214460,194143,20317,9.5,,,20120312,3201212,4735,No,0
