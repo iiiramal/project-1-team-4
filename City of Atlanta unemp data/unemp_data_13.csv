@@ -1,14 +1,3 @@
-﻿Areaname,Area,Areatype,Stfips,Maparea,Stateabbrv,Periodyear,Periodtype,Period,Timeperiod,Adjusted,Laborforce,Emplab,Unemp,Unemprate,Clfprate,Emppopratio,Fullperiod,Sortperiod,Rank,Preliminary,prelim
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2013,1,0,2013,No,212634,193635,18999,8.9,,,20130100,1201300,175,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2013,3,1,"January, 2013",No,213684,192223,21461,10,,,20130301,3201301,555,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2013,3,2,"February, 2013",No,212092,192185,19907,9.4,,,20130302,3201302,935,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2013,3,3,"March, 2013",No,211842,192861,18981,9,,,20130303,3201303,1315,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2013,3,4,"April, 2013",No,211652,193386,18266,8.6,,,20130304,3201304,1695,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2013,3,5,"May, 2013",No,212682,193749,18933,8.9,,,20130305,3201305,2075,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2013,3,6,"June, 2013",No,213858,193200,20658,9.7,,,20130306,3201306,2455,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2013,3,7,"July, 2013",No,213975,194078,19897,9.3,,,20130307,3201307,2835,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2013,3,8,"August, 2013",No,212110,192809,19301,9.1,,,20130308,3201308,3215,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2013,3,9,"September, 2013",No,212824,194564,18260,8.6,,,20130309,3201309,3595,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2013,3,10,"October, 2013",No,211914,193645,18269,8.6,,,20130310,3201310,3975,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2013,3,11,"November, 2013",No,212519,195350,17169,8.1,,,20130311,3201311,4355,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2013,3,12,"December, 2013",No,212461,195571,16890,7.9,,,20130312,3201312,4735,No,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:53d30682524ff5e029047544e6a2bb9bba4ef0dd46523c0eac568f2b7a9a7d77
+size 2168

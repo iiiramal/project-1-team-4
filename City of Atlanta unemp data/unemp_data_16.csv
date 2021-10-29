@@ -1,14 +1,3 @@
-﻿Areaname,Area,Areatype,Stfips,Maparea,Stateabbrv,Periodyear,Periodtype,Period,Timeperiod,Adjusted,Laborforce,Emplab,Unemp,Unemprate,Clfprate,Emppopratio,Fullperiod,Sortperiod,Rank,Preliminary,prelim
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2016,1,0,2016,No,224071,210690,13381,6,,,20160100,1201600,175,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2016,3,1,"January, 2016",No,215547,201824,13723,6.4,,,20160301,3201601,555,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2016,3,2,"February, 2016",No,217099,203488,13611,6.3,,,20160302,3201602,935,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2016,3,3,"March, 2016",No,218812,205556,13256,6.1,,,20160303,3201603,1315,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2016,3,4,"April, 2016",No,219047,206477,12570,5.7,,,20160304,3201604,1695,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2016,3,5,"May, 2016",No,221070,208588,12482,5.6,,,20160305,3201605,2075,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2016,3,6,"June, 2016",No,223961,209915,14046,6.3,,,20160306,3201606,2455,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2016,3,7,"July, 2016",No,227060,212933,14127,6.2,,,20160307,3201607,2835,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2016,3,8,"August, 2016",No,226655,212659,13996,6.2,,,20160308,3201608,3215,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2016,3,9,"September, 2016",No,228021,214656,13365,5.9,,,20160309,3201609,3595,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2016,3,10,"October, 2016",No,230714,217311,13403,5.8,,,20160310,3201610,3975,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2016,3,11,"November, 2016",No,230009,217347,12662,5.5,,,20160311,3201611,4355,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2016,3,12,"December, 2016",No,230852,217522,13330,5.8,,,20160312,3201612,4735,No,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:3afbd3c619420b11f95baf305bde180790d5fe166cf2629ee35a4e34ec7ac988
+size 2169
