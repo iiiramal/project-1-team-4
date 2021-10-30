@@ -1,14 +1,3 @@
-﻿Areaname,Area,Areatype,Stfips,Maparea,Stateabbrv,Periodyear,Periodtype,Period,Timeperiod,Adjusted,Laborforce,Emplab,Unemp,Unemprate,Clfprate,Emppopratio,Fullperiod,Sortperiod,Rank,Preliminary,prelim
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2017,1,0,2017,No,235960,223437,12523,5.3,,,20170100,1201700,175,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2017,3,1,"January, 2017",No,233756,219243,14513,6.2,,,20170301,3201701,555,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2017,3,2,"February, 2017",No,234715,221085,13630,5.8,,,20170302,3201702,935,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2017,3,3,"March, 2017",No,235203,222444,12759,5.4,,,20170303,3201703,1315,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2017,3,4,"April, 2017",No,234556,222603,11953,5.1,,,20170304,3201704,1695,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2017,3,5,"May, 2017",No,235227,222828,12399,5.3,,,20170305,3201705,2075,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2017,3,6,"June, 2017",No,236284,222789,13495,5.7,,,20170306,3201706,2455,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2017,3,7,"July, 2017",No,237760,224280,13480,5.7,,,20170307,3201707,2835,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2017,3,8,"August, 2017",No,236136,223076,13060,5.5,,,20170308,3201708,3215,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2017,3,9,"September, 2017",No,238107,226564,11543,4.8,,,20170309,3201709,3595,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2017,3,10,"October, 2017",No,236405,225153,11252,4.8,,,20170310,3201710,3975,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2017,3,11,"November, 2017",No,236695,225697,10998,4.6,,,20170311,3201711,4355,No,0
-City of Atlanta Local Workforce Development Area,3,15,13,1315000003,GA,2017,3,12,"December, 2017",No,236680,225486,11194,4.7,,,20170312,3201712,4735,No,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:765371e3768b2dedc929aa97ae3cc384dcd74456e092c78757e1f894adf6a97d
+size 2157
